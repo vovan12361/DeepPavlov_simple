@@ -1,0 +1,4 @@
+aiogram~=3.17.0
+python-dotenv~=1.0.1
+deeppavlov~=1.7.0
+beautifulsoup4~=4.12.3
